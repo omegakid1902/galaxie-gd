@@ -10,3 +10,7 @@ Issue:
 - Not support wikilinks
 - Not support file name in UNICODE, and space
 - YAML issue with int, bool datatype
+- graph view not auto link notes by notes by markdownlink/wikilinks, need manual update YAML header `citations`, `quotes`
+
+Pro:
+- GOOD for graph parser
