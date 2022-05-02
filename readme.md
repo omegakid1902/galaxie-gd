@@ -1,8 +1,8 @@
 # Galaxie GD
 
-https://greaby.github.io/galaxie-gd/
+Owner: https://greaby.github.io/galaxie-gd/
 
-Template [Telescope](https://github.com/greaby/telescope)
+Template for publishing markdown with graph by`` [Telescope](https://github.com/greaby/telescope)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=greaby&repo=telescope)](https://github.com/greaby/telescope)
 
